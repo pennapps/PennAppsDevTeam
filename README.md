@@ -1,5 +1,5 @@
 # PennAppsDevTeam
-Welcome developers! Add a profile picture, full name, grade, and GitHub username here. 
+Welcome developers! Add a profile picture, full name, grade, and the stack you'd like to do here. 
 
 Profile Picture | Name | Grade | Team |
 ---|---|---|---
