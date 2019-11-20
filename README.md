@@ -10,4 +10,3 @@ Profile Picture | Name | Grade | Team |
 | <img src = "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/p160x160/60957318_2060054907456233_1385483254856941568_n.jpg?_nc_cat=111&_nc_ohc=nfWV7-CZXwUAQmnDrGHHOO1PEhXySvCVYSHbYXQX1-7XH0heIeLoX-riw&_nc_ht=scontent-iad3-1.xx&oh=2e038a3ed5e367ad050b744051baa7c0&oe=5E82FD11" width = 100/> | Lanting Chiang | Sophomore | Full Stack Development
 | <img src="https://drive.google.com/file/d/1mgW11ldL-KWGKCXnNujh3JNTa5VpF-bd/view?usp=sharing" width=100/> | Umang Somani | Junior | Full Stack Development
 
-
